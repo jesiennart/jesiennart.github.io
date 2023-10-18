@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../Javascript"
+		},
+		{
+			"path": "../Kurs stron WWW"
+		},
+		{
+			"path": "../Kurs 2"
+		},
+		{
+			"path": "../English"
+		},
+		{
+			"path": "../html"
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../Projekty"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Projekty"
+	}
+}
