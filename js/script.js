@@ -123,7 +123,7 @@ const percOut6 = (params) => {
     fa6.textContent = ''
 }
 
-
+// my first commit
 skillOne.addEventListener('mouseover', percIn)
 skillOne.addEventListener('mouseout', percOut)
 skillTwo.addEventListener('mouseover', percIn2)
