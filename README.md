@@ -48,7 +48,7 @@ In progress.
 
 ## Acknowledgements
 
-This project was inspired by my interests in cyberpunk and Blade Runner world creating. 
+This project was inspired by my interests in cyberpunk and Blade Runner world creating with a little help of the synthwave music.
 
 ## Author
 
