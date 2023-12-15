@@ -550,6 +550,9 @@ header .fa-chevron-down:hover {
     transition: 0.6s;
     z-index: 2;
   }
+  .navbar {
+    background-color: black;
+  }
   header h1 {
     margin-left: 0;
     align-items: center;
@@ -682,7 +685,7 @@ header .fa-chevron-down:hover {
     font-size: 3rem;
   }
 }
-@media (min-width: 320px) {
+@media (min-width: 320px) and (max-width: 700px) {
   nav {
     font-size: 1.8rem;
     padding: 0 2rem;
@@ -690,6 +693,9 @@ header .fa-chevron-down:hover {
     text-shadow: #000 3px 3px 3px;
     transition: 0.6s;
     z-index: 2;
+  }
+  .navbar {
+    background-color: rgba(0, 0, 0, 0.9);
   }
   header h1 {
     margin: 0 auto;
@@ -944,7 +950,7 @@ header .fa-chevron-down:hover {
     border: 1px solid #ff00ff;
   }
 }
-@media (min-width: 990px) and (max-width: 1200px) {
+@media (min-width: 1025px) and (max-width: 1200px) {
   nav {
     font-size: 1.6rem;
     padding: 0 14rem;
